@@ -5,4 +5,4 @@
 * The data set used in this note includes location information of the apt complexes and this info was obtained using Google API.
 * The data set is available here: https://www.kaggle.com/code/mldaniella/build-an-interactive-app-for-creating-maps-with/data
 
-* The libraries used: `panda`, `panel` and `folium`
+* The modules used: `panda`, `panel` and `folium`
